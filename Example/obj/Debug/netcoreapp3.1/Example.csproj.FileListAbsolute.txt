@@ -1,0 +1,17 @@
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\bin\Debug\netcoreapp3.1\Example.exe
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\bin\Debug\netcoreapp3.1\Example.deps.json
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\bin\Debug\netcoreapp3.1\Example.runtimeconfig.json
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\bin\Debug\netcoreapp3.1\Example.runtimeconfig.dev.json
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\bin\Debug\netcoreapp3.1\Example.dll
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\bin\Debug\netcoreapp3.1\Example.pdb
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\bin\Debug\netcoreapp3.1\PEMath.dll
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\bin\Debug\netcoreapp3.1\PEMath.pdb
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\obj\Debug\netcoreapp3.1\Example.csproj.AssemblyReference.cache
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\obj\Debug\netcoreapp3.1\Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfoInputs.cache
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfo.cs
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\obj\Debug\netcoreapp3.1\Example.csproj.CoreCompileInputs.cache
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\obj\Debug\netcoreapp3.1\Example.csproj.CopyComplete
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\obj\Debug\netcoreapp3.1\Example.dll
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\obj\Debug\netcoreapp3.1\Example.pdb
+D:\Work\Demo\PEMath\PEMath\PEMath\Example\obj\Debug\netcoreapp3.1\Example.genruntimeconfig.cache

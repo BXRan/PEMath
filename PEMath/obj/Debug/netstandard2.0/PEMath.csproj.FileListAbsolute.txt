@@ -1,0 +1,13 @@
+D:\Work\Demo\PEMath\PEMath\PEMath\PEMath\bin\Debug\netstandard2.0\PEMath.deps.json
+D:\Work\Demo\PEMath\PEMath\PEMath\PEMath\bin\Debug\netstandard2.0\PEMath.dll
+D:\Work\Demo\PEMath\PEMath\PEMath\PEMath\bin\Debug\netstandard2.0\PEMath.pdb
+D:\Work\Demo\PEMath\UnityPEMath\Assets\netstandard2.0\PEMath.deps.json
+D:\Work\Demo\PEMath\UnityPEMath\Assets\netstandard2.0\PEMath.dll
+D:\Work\Demo\PEMath\UnityPEMath\Assets\netstandard2.0\PEMath.pdb
+D:\Work\Demo\PEMath\PEMath\PEMath\PEMath\obj\Debug\netstandard2.0\PEMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Demo\PEMath\PEMath\PEMath\PEMath\obj\Debug\netstandard2.0\PEMath.AssemblyInfoInputs.cache
+D:\Work\Demo\PEMath\PEMath\PEMath\PEMath\obj\Debug\netstandard2.0\PEMath.AssemblyInfo.cs
+D:\Work\Demo\PEMath\PEMath\PEMath\PEMath\obj\Debug\netstandard2.0\PEMath.csproj.CoreCompileInputs.cache
+D:\Work\Demo\PEMath\PEMath\PEMath\PEMath\obj\Debug\netstandard2.0\PEMath.dll
+D:\Work\Demo\PEMath\PEMath\PEMath\PEMath\obj\Debug\netstandard2.0\PEMath.pdb
+D:\Work\Demo\PEMath\PEMath\PEMath\PEMath\obj\Debug\netstandard2.0\PEMath.csproj.AssemblyReference.cache

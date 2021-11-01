@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZTv6Kya8vh3M5AFsnCYQ7JeXu5ytHq6GZdgT4K1tC3ud0ZHf2Hic11wlkcZsfA2iN7bK5CTRsnJR/ePgIQhyQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Demo\\PEMath\\PEMath\\PEMath\\PEMath\\PEMath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\李铁锤\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\李铁锤\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
